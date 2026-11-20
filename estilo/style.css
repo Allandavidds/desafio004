@@ -51,6 +51,7 @@ header > h1 {
     color: white;
     padding-bottom: 20px;
     font-size: 3em;
+    margin-bottom: 0px;
     font-family: var(--fonte-destaque);
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.27);
 }
@@ -102,6 +103,7 @@ main {
 
 main h1 {
     color: var(--cor4);
+    font-size: 1.072em;
     font-family: var(--fonte-android);
 }
 
